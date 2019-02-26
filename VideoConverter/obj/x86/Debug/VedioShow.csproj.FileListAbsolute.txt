@@ -1,0 +1,71 @@
+F:\动态库C#练习程序\Test\VedioShow\VedioShow\obj\x86\Debug\Interop.DIRECTLib.dll
+F:\动态库C#练习程序\Test\VedioShow\VedioShow\obj\x86\Debug\VedioShow.csproj.ResolveComReference.cache
+F:\动态库C#练习程序\Test\VedioShow\VedioShow\bin\Debug\VedioShow.exe
+F:\动态库C#练习程序\Test\VedioShow\VedioShow\bin\Debug\VedioShow.pdb
+F:\动态库C#练习程序\Test\VedioShow\VedioShow\bin\Debug\Interop.APlayer3Lib.dll
+F:\动态库C#练习程序\Test\VedioShow\VedioShow\bin\Debug\AxInterop.APlayer3Lib.dll
+F:\动态库C#练习程序\Test\VedioShow\VedioShow\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\动态库C#练习程序\Test\VedioShow\VedioShow\obj\x86\Debug\Interop.APlayer3Lib.dll
+F:\动态库C#练习程序\Test\VedioShow\VedioShow\obj\x86\Debug\AxInterop.APlayer3Lib.dll
+F:\动态库C#练习程序\Test\VedioShow\VedioShow\obj\x86\Debug\VedioShow.Form1.resources
+F:\动态库C#练习程序\Test\VedioShow\VedioShow\obj\x86\Debug\VedioShow.Properties.Resources.resources
+F:\动态库C#练习程序\Test\VedioShow\VedioShow\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\动态库C#练习程序\Test\VedioShow\VedioShow\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\动态库C#练习程序\Test\VedioShow\VedioShow\obj\x86\Debug\VedioShow.exe
+F:\动态库C#练习程序\Test\VedioShow\VedioShow\obj\x86\Debug\VedioShow.pdb
+C:\Documents and Settings\Administrator\桌面\VedioShow(1)\VedioShow\obj\x86\Debug\Interop.APlayer3Lib.dll
+C:\Documents and Settings\Administrator\桌面\VedioShow(1)\VedioShow\obj\x86\Debug\Interop.DIRECTLib.dll
+C:\Documents and Settings\Administrator\桌面\VedioShow(1)\VedioShow\obj\x86\Debug\AxInterop.APlayer3Lib.dll
+C:\Documents and Settings\Administrator\桌面\VedioShow(1)\VedioShow\obj\x86\Debug\VedioShow.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\VedioShow(1)\VedioShow\obj\x86\Debug\VedioShow.exe
+C:\Documents and Settings\Administrator\桌面\VedioShow(1)\VedioShow\obj\x86\Debug\VedioShow.pdb
+C:\Documents and Settings\Administrator\桌面\VedioShow(1)\VedioShow\bin\Debug\VedioShow.exe
+C:\Documents and Settings\Administrator\桌面\VedioShow(1)\VedioShow\bin\Debug\VedioShow.pdb
+C:\Documents and Settings\Administrator\桌面\VedioShow(1)\VedioShow\bin\Debug\Interop.APlayer3Lib.dll
+C:\Documents and Settings\Administrator\桌面\VedioShow(1)\VedioShow\bin\Debug\AxInterop.APlayer3Lib.dll
+C:\Documents and Settings\Administrator\桌面\VedioShow(1)\VedioShow\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\VedioShow(1)\VedioShow\obj\x86\Debug\VedioShow.Form1.resources
+C:\Documents and Settings\Administrator\桌面\VedioShow(1)\VedioShow\obj\x86\Debug\VedioShow.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\VedioShow(1)\VedioShow\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\VedioShow(1)\VedioShow\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\VedioShow\VedioShow\obj\x86\Debug\Interop.APlayer3Lib.dll
+E:\VedioShow\VedioShow\obj\x86\Debug\Interop.DIRECTLib.dll
+E:\VedioShow\VedioShow\obj\x86\Debug\AxInterop.APlayer3Lib.dll
+E:\VedioShow\VedioShow\obj\x86\Debug\VedioShow.csproj.ResolveComReference.cache
+E:\VedioShow\VedioShow\obj\x86\Debug\VedioShow.exe
+E:\VedioShow\VedioShow\obj\x86\Debug\VedioShow.pdb
+E:\VedioShow\VedioShow\bin\Debug\VedioShow.exe
+E:\VedioShow\VedioShow\bin\Debug\VedioShow.pdb
+E:\VedioShow\VedioShow\bin\Debug\Interop.APlayer3Lib.dll
+E:\VedioShow\VedioShow\bin\Debug\AxInterop.APlayer3Lib.dll
+E:\VedioShow\VedioShow\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\VedioShow\VedioShow\obj\x86\Debug\VedioShow.Form1.resources
+E:\VedioShow\VedioShow\obj\x86\Debug\VedioShow.Properties.Resources.resources
+E:\VedioShow\VedioShow\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\VedioShow\VedioShow\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\测试代码\VedioShow\VedioShow\obj\x86\Debug\Interop.APlayer3Lib.dll
+F:\测试代码\VedioShow\VedioShow\obj\x86\Debug\Interop.DIRECTLib.dll
+F:\测试代码\VedioShow\VedioShow\obj\x86\Debug\AxInterop.APlayer3Lib.dll
+F:\测试代码\VedioShow\VedioShow\obj\x86\Debug\VedioShow.csproj.ResolveComReference.cache
+F:\测试代码\VedioShow\VedioShow\obj\x86\Debug\VedioShow.exe
+F:\测试代码\VedioShow\VedioShow\obj\x86\Debug\VedioShow.pdb
+F:\测试代码\VedioShow\VedioShow\bin\Debug\VedioShow.exe
+F:\测试代码\VedioShow\VedioShow\bin\Debug\VedioShow.pdb
+F:\测试代码\VedioShow\VedioShow\bin\Debug\Interop.APlayer3Lib.dll
+F:\测试代码\VedioShow\VedioShow\bin\Debug\AxInterop.APlayer3Lib.dll
+F:\测试代码\VedioShow\VedioShow\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\测试代码\VedioShow\VedioShow\obj\x86\Debug\VedioShow.Form1.resources
+F:\测试代码\VedioShow\VedioShow\obj\x86\Debug\VedioShow.Properties.Resources.resources
+F:\测试代码\VedioShow\VedioShow\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\测试代码\VedioShow\VedioShow\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\视频压缩&转码\VedioShow\VedioShow\bin\Debug\VedioShow.exe
+F:\视频压缩&转码\VedioShow\VedioShow\bin\Debug\VedioShow.pdb
+F:\视频压缩&转码\VedioShow\VedioShow\obj\x86\Debug\VedioShow.Form1.resources
+F:\视频压缩&转码\VedioShow\VedioShow\obj\x86\Debug\VedioShow.Properties.Resources.resources
+F:\视频压缩&转码\VedioShow\VedioShow\obj\x86\Debug\VedioShow.csproj.GenerateResource.Cache
+F:\视频压缩&转码\VedioShow\VedioShow\obj\x86\Debug\VedioShow.csproj.CoreCompileInputs.cache
+F:\视频压缩&转码\VedioShow\VedioShow\obj\x86\Debug\VedioShow.exe
+F:\视频压缩&转码\VedioShow\VedioShow\obj\x86\Debug\VedioShow.pdb
+F:\视频压缩&转码\VedioShow\VedioShow\obj\x86\Debug\VedioShow.csprojResolveAssemblyReference.cache
+F:\视频压缩&转码\VedioShow\VedioShow\bin\Debug\Process_test.dll
+F:\视频压缩&转码\VedioShow\VedioShow\bin\Debug\Process_test.pdb

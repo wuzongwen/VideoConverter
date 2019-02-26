@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VedioShow.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="禁止改变大小" Type="System.Windows.Forms.FormBorderStyle" Scope="User">
+      <Value Profile="(Default)">FixedSingle</Value>
+    </Setting>
+    <Setting Name="FixedSingle" Type="System.Windows.Forms.FormBorderStyle" Scope="User">
+      <Value Profile="(Default)">FixedSingle</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
